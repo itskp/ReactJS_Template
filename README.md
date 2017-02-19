@@ -1,5 +1,5 @@
 # ReactJS Template 
 
 Commands
-> npm install
+> npm install <br>
 > webpack
