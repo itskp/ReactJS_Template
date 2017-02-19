@@ -8,4 +8,4 @@ client.min.js created after last command <br>
 start server
 # Simple Http Server
 use command
-> python -m SimpleHTTPServer 80
+> python -m SimpleHTTPServer 8000
